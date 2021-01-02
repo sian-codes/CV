@@ -139,3 +139,17 @@ margin: 100px 0;
    cursor: pointer;
    text-align: center;
 }
+@media screen and (max-width: 1250px) {
+  .top-container {
+    float: none;
+    display: block;
+    text-align: center;
+    font-size: 6px;
+  }
+  h2 {
+    float: none;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+  }
+}
